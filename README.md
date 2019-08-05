@@ -1,3 +1,5 @@
+Note: this repo contains a largely unchanged version of MediaToolkit from Aydin Adn's implementation. I changed it to build to .NET Standard 2.0, so that I could use it in .NET Core and in modern environments like Azure Functions 2.0.
+
 MediaToolkit
 ============
 
